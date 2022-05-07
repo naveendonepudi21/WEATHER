@@ -7,7 +7,7 @@
     "start": "parcel ./src/index.html",
     "build": "parcel build ./src/index.html --dist-dir ./dist"
   },
-  "author": "ABCD",
+  "author": "Gargi Chaurasia",
   "license": "ISC",
   "dependencies": {
     "chart.js": "^3.4.1",
